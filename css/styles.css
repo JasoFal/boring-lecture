@@ -1,15 +1,15 @@
-h2.intro {
+.intro {
   width: 75%;
   font-size: 30px;
   color: #454EBA;
   font-weight: bold;
   font-style: italic;
 }
-p.intro {
+.intro {
   font-family: wingdings;
   color: #6A71C8;
 }
-img.intro {
+.intro {
   max-width: 50%;
   margin-left: auto;
   margin-right: auto;
